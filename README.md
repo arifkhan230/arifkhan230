@@ -23,7 +23,7 @@
 
 
 
-<h3 align="left">Languages and Technology</h3>
+<h1 align="left">Languages and Technology</h1>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 # Languages states
@@ -37,3 +37,62 @@
 # Current github states
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifkhan230&" alt="arifkhan230" /></p>
+
+
+
+
+# My recent projects
+
+## NexGen
+<p>Inventory management system | 23 November 2023 - 30 November 2023.</p>
+
+- Developed MERN inventory system (Naxgen) for shops with CRUD operations, payment, and sales
+tracking.
+- Implemented role-based access for managers and admin, enabling product management, sales
+overview, and user monitoring.
+- Designed robust backend for admin to track system-wide activities, user management, and overall
+income.
+
+#### Technologies used
+- Front-end: HTML, CSS,Tailwind, JavaScript React,
+- Back-End: Express.js Node.js MongoDB,
+- Payment: Stripe.js react
+
+#### Website link (https://inventory-management-ea297.web.app/)
+
+
+
+## Wisdom Center
+<p>Library Management system | 4th November 2023 - 8th November 2023.</p>
+
+- Engineered a MERN Library Management System with intuitive CRUD capabilities, organized book
+collections by category, and streamlined user-friendly book borrowing.
+- Implemented a seamless user experience with features for easy book borrowing, and re-borrowing,
+enhancing the overall usability of the system.
+- Designed a resilient backend system facilitating efficient book management, featuring category-
+based organization and user-friendly book details presentation.
+
+#### Technologies used
+- Front-end: HTML, CSS,Tailwind, JavaScript React,
+- Back-End: Express.js Node.js MongoDB,
+
+##### Website link (https://flat-hill.surge.sh)
+
+
+
+## Car Wonders
+<p>Automotive Brand Shop | 17 October 2023 - 20 October 2023.</p>
+
+- Developed a MERN stack Automotive Brand Shop with dynamic car listings for multiple brands,
+enabling users to add, update, and view detailed information about each car within an intuitive
+interface.
+- Implemented seamless e-commerce functionality, allowing users to add cars to their cart, enhancing
+the shopping experience for potential buyers.
+- Engineered a user-centric system with features for comprehensive car management, emphasizing
+CRUD operations, detailed car information, and an efficient shopping cart system.
+
+#### Technologies used
+- Front-end: HTML, CSS,Tailwind, JavaScript React,
+- Back-End: Express.js Node.js MongoDB,
+
+#### Website link (https://brand-shop-61ff2.web.app)
