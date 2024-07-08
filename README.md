@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arifkhan230&label=Profile%20views&color=0e75b6&style=flat" alt="arifkhan230" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescrip,Redux**
 
 - 💬 Ask me about **React,javaScript,HTML,CSS**
 
