@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Typescrip,Redux**
 
-- 💬 Ask me about **React,javaScript,HTML,CSS**
+- 💬 Ask me about **React,javaScript,typescript,HTML,CSS,tailwind**
 
 - 📫 How to reach me **https://www.linkedin.com/in/arif-khan-759453211/**
 
